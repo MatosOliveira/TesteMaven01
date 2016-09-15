@@ -1,3 +1,4 @@
+package br.com.starcode.testemaven01;
 import org.apache.commons.lang3.StringUtils;
 
 /**
