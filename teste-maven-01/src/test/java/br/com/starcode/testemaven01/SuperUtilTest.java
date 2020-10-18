@@ -1,8 +1,7 @@
 package br.com.starcode.testemaven01;
 
+import org.junit.Assert;
 import org.junit.Test;
-
-import junit.framework.Assert;
 
 /**
  * 
@@ -12,7 +11,6 @@ import junit.framework.Assert;
  * @author matao01
  *
  */
-@SuppressWarnings("deprecation")
 public class SuperUtilTest {
 
 	@Test
